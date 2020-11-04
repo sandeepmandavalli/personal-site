@@ -1,0 +1,62 @@
+
+
+body{
+  margin:0;
+}
+h1{
+  margin-top:0;
+}
+
+
+
+
+.first-container{
+  background-color: #bbbfca;
+  border: solid 10px;
+  border-width: 3px 4px 5px 6px;
+  padding: 20px;
+  margin:5px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  width:5%;
+  height:0px;
+  border-width: 10px;
+}
+
+.cloud{
+  position: relative;
+  bottom: 80px;
+  left: 20px;
+}
+
+.cloud1{
+  position: relative;
+  bottom: 80px;
+  right:40px;
+}
+
+
+.middle-container{
+  border: solid;
+  background-color: #f9813a;
+  border-width: 3px,4px,5px,6px;
+  padding:20px;
+  margin:5px;
+  border: 3px 4px 5px 6px;
+
+}
+
+.last-container{
+  background-color:#fcf876;
+  padding:20px;
+  margin:5px;
+  border: solid;
+}
